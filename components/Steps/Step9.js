@@ -131,7 +131,7 @@ export default function Step9() {
       interesse_finanzierung: userData.step4,
       dachform: userData.step3,
       art_heizung: userData.step5,
-      leadherkunft: "https://immo-tommy.solar-pvcheck.de",
+      leadherkunft: "https://homestory.pictures.solar-pvcheck.de",
       Bemerkungen: calculatedDa,
 
     };
@@ -162,7 +162,7 @@ export default function Step9() {
       interesse_finanzierung: userData.step4,
       dachform: userData.step3,
       art_heizung: userData.step5,
-      leadherkunft: "https://homestory-pictures-funnel.netlify.app",
+      leadherkunft: "https://homestory.pictures.solar-pvcheck.de",
       Bemerkungen: calculatedDa,
       project: "homestory-pictures"
     };

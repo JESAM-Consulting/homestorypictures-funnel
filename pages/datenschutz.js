@@ -45,10 +45,10 @@ export default function Datenschutz() {
             <p className="mb-3">
               Hier finden Sie unsere Informationen zum Datenschutz für:
               <a
-                href="https://immo-tommy.solar-pvcheck.de"
+                href="https://homestory.pictures.solar-pvcheck.de"
                 target="_blank"
                 rel="noreferrer">
-                https://immo-tommy.solar-pvcheck.de
+               &nbsp; homestory.pictures.solar-pvcheck.de
               </a>
             </p>
           </div>
